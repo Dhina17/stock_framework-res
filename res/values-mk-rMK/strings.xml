@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lock_to_app_description">"Прикачувањето на екранот го заклучува екранот во еден приказ.
+
+За да го отклучите, истовремено притиснете и држете го копчето Дома и Вклучување."</string>
+    <string name="lock_to_app_description_accessible">"Прикачувањето на екранот го заклучува екранот во еден приказ.
+
+За да го отклучите, истовремено притиснете и држете го копчето Дома и Вклучување."</string>
+    <string name="lock_to_app_toast">За да го откачите овој екран, истовремено притиснете и држете го копчето Дома и Вклучување.</string>
+    <string name="lock_to_app_toast_accessible">За да го откачите овој екран, истовремено притиснете и држете го копчето Дома и Вклучување.</string>
+    <string name="lockscreen_missing_sim_instructions">Внесете SIM картичка.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM картичката недостасува или не може да се чита. Внесете SIM картичка.</string>
+    <string name="lockscreen_missing_sim_message">Нема SIM картичка во телефонот.</string>
+    <string name="lockscreen_missing_sim_message_short">Нема SIM картичка</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Вашата SIM картичка е трајно оневозможена.
+Контактирајте го Вашиот оператор за да добиете друга SIM картичка."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Неупотреблива SIM картичка.</string>
+    <string name="tethered_notification_message">Допрете за да поставите.</string>
+    <string name="tethered_notification_multi_device_message">%1$s поврзани уреди</string>
+    <string name="tethered_notification_no_device_message">Нема поврзан уред</string>
+    <string name="tethered_notification_one_device_message">%1$s поврзан уред</string>
+    <string name="tethered_notification_title">Делење врска или преносна пристапна точка</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Повикај</string>
+    <string name="volume_icon_description_media">Медиа</string>
+    <string name="volume_icon_description_notification">Известување</string>
+    <string name="volume_icon_description_ringer">Ѕвонење</string>
+</resources>

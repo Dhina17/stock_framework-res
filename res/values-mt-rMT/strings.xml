@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lock_to_app_description">"It-twaħħil tal-iskrin isakkar l-iskrin f'dehra waħda.
+
+Biex taqla, agħfas u żomm il-buttuna prinċipali u dik tal-enerġija f'daqqa."</string>
+    <string name="lock_to_app_description_accessible">"It-twaħħil tal-iskrin isakkar l-iskrin f'dehra waħda.
+
+Biex taqla, agħfas u żomm il-buttuna prinċipali u dik tal-enerġija f'daqqa."</string>
+    <string name="lock_to_app_toast">"Biex taqla din l-iskrin, agħfas u żomm il-buttuna prinċipali u dik tal-enerġija f'daqqa."</string>
+    <string name="lock_to_app_toast_accessible">"Biex taqla din l-iskrin, agħfas u żomm il-buttuna prinċipali u dik tal-enerġija f'daqqa."</string>
+    <string name="lockscreen_missing_sim_instructions">Daħħal SIM kard.</string>
+    <string name="lockscreen_missing_sim_instructions_long">Is-SIM kard nieqsa jew ma tistax tinqara. Daħħal SIM kard.</string>
+    <string name="lockscreen_missing_sim_message">L-ebda SIM kard fit-telefown.</string>
+    <string name="lockscreen_missing_sim_message_short">L-ebda SIM kard</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Is-SIM kard tiegħek intfiet b'mod permanenti.
+Ikkuntatja lill-operatur tas-servizz tiegħek għal SIM kard oħra."</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Is-SIM kard ma tistax tintuża.</string>
+    <string name="tethered_notification_message">Miss biex twaqqaf.</string>
+    <string name="tethered_notification_multi_device_message">%1$s tagħmir imqabbda</string>
+    <string name="tethered_notification_no_device_message">L-ebda tagħmir imqabbad</string>
+    <string name="tethered_notification_one_device_message">Tagħmir %1$s imqabbad</string>
+    <string name="tethered_notification_title">It-tethering jew il-hotspot mixgħula</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Ċempel</string>
+    <string name="volume_icon_description_media">Midja</string>
+    <string name="volume_icon_description_notification">Notifikazzjoni</string>
+    <string name="volume_icon_description_ringer">Ħoss taċ-ċempil</string>
+</resources>
