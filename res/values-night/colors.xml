@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="media_notification_actions_bg_color">#4d000000</color>
+    <color name="media_notification_app_name_text_color">#33ffffff</color>
+    <color name="navigationbar_color">@color/black</color>
+    <color name="notification_header_text_color">#b3ffffff</color>
+    <color name="notification_miui_action_text_color_n">#a6ffffff</color>
+    <color name="notification_miui_action_text_color_p">#bfffffff</color>
+    <color name="notification_progress_horizontal_bg_color">#1affffff</color>
+    <color name="notification_progress_horizontal_progress_color">#ff0077ff</color>
+    <color name="notification_time_color">#33ffffff</color>
+    <color name="statusbar_content">#59ffffff</color>
+    <color name="statusbar_content_title">#e6ffffff</color>
+    <color name="toast_text_color">#ccffffff</color>
+</resources>

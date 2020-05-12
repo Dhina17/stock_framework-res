@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.internal.widget.MiuiDecorCaptionView android:orientation="vertical" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/caption" android:background="@drawable/decor_caption_title" android:focusable="false" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="36.359985dip">
+        <Button android:layout_gravity="center_vertical" android:id="@id/move_window" android:background="@drawable/move_button" android:layout_width="36.359985dip" android:layout_height="36.359985dip" android:layout_centerVertical="true" android:contentDescription="@string/move_button_text" android:layout_alignParentStart="true" />
+        <Button android:layout_gravity="center_vertical" android:id="@id/close_window" android:background="@drawable/decor_close_button_dark" android:layout_width="36.359985dip" android:layout_height="36.359985dip" android:layout_centerVertical="true" android:contentDescription="@string/close_button_text" android:layout_alignParentEnd="true" />
+        <ImageView android:layout_width="34.909973dip" android:layout_height="4.3599854dip" android:layout_margin="8.0dip" android:src="@drawable/drag_indicator" android:layout_centerHorizontal="true" />
+        <Button android:layout_gravity="center_vertical" android:id="@id/maximize_window" android:background="@drawable/decor_maximize_button_dark" android:layout_width="36.359985dip" android:layout_height="36.359985dip" android:layout_centerVertical="true" android:contentDescription="@string/maximize_button_text" android:layout_toEndOf="@id/move_window" />
+        <Button android:layout_gravity="center_vertical" android:id="@id/pin_window" android:background="@drawable/unpin_button" android:layout_width="36.359985dip" android:layout_height="36.359985dip" android:layout_centerVertical="true" android:contentDescription="@string/maximize_button_text" android:layout_toEndOf="@id/maximize_window" />
+    </RelativeLayout>
+</com.android.internal.widget.MiuiDecorCaptionView>
